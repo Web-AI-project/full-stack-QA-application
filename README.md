@@ -1,1 +1,1 @@
-# full-stack-QA-application
+# Full Stack Q&A Application

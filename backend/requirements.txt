@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+PyPDF2
+chromadb
+llama-index
+openai
+pydantic
