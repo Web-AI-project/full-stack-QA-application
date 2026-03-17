@@ -269,30 +269,6 @@ We welcome contributions! Please:
 
 ---
 
-## 🧩 Folder Structure
-
-```
-project-root/
-│
-├── backend/
-│   ├── app.js                 # Main Node.js + Express server
-│   ├── documents/             # Uploaded files (auto-cleared each upload)
-│   ├── package.json
-│   └── .env                   # OPENAI_API_KEY=your_key_here
-│
-├── frontend/
-│   ├── src/
-│   │   ├── App.js             # Main React UI
-│   │   ├── Chat.css           # Styles
-│   │   └── index.js
-│   ├── package.json
-│   └── public/
-│
-└── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1️⃣ Backend Setup
