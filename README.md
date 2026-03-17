@@ -3,8 +3,8 @@
 A full-stack **Question & Answer (Q&A)** application that lets users submit questions, retrieves answers using an AI/ML-powered backend, and displays responses in an intuitive frontend UI.
 
 ##  Built with:
-- **Node.js & React** (frontend)
-- **FastAPI & Python** (backend)
+- **React** (frontend)
+- **Node.js & FastAPI & Python** (backend)
 - **OpenAI GPT-3.5** for answer generation
 - **ChromaDB** vector database for knowledge retrieval
 - **LlamaIndex** for embeddings
@@ -56,6 +56,7 @@ full-stack-QA-application/
 ### Requirements
 
 * **Node.js** (v18+)
+* **React.js** 
 * **Python** 3.9+
 * **OpenAI API Key**
 * **Git**
